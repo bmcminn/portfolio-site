@@ -1,0 +1,13 @@
+{
+  "name": "brandtley.name",
+  "version": "0.0.0",
+  "description": "Official site of Gigglebox Studios and Brandtley McMinn",
+  "main": "index.js",
+  "homepage": "http://gigglebox.name",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandtley McMinn <labs@gigglebox.name>",
+  "license": "BEER-WARE",
+  "private": true
+}

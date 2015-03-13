@@ -1,0 +1,12 @@
+{
+    "name": "bmcminn/portfolio-site",
+    "description": "Official blog and portfolio site for http://brandtley.name",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bmcminn",
+            "email": "labs@gbox.name"
+        }
+    ],
+    "require": {}
+}
