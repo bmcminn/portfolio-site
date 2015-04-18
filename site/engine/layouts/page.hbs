@@ -1,0 +1,13 @@
+{{> site-header }}
+
+  <div class="page-content">
+    <h1>{{ this.page.title }}</h1>
+
+    {{#markdown}}
+      {{> body }}
+    {{/markdown}}
+
+    {{> posts }}
+  </div>
+
+{{> site-footer }}
